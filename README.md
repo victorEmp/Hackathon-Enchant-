@@ -44,9 +44,6 @@ Nossa causa é a educação, pois acreditamos que por este setor em voga amplia 
 
 Pensamos que o simples sempre funciona, por isso criamos uma aplicação gamificada, na qual o usuário vai trilhando seu aprendizado, conquistando tesouros e adquirindo conhecimento sobre a cultura da França e países francófonos enquanto aprende o idioma.  Com a evolução do usuário ao acertar os desafios, ele consegue acumular pontos para trocar por brindes relacionados a Aliança Francesa e os temas abordados. O fluxo simplificado pode ser visto abaixo:
 </br></br>
-#### Tela de Login - Minigame em dupla - Tela com ranking
-![](fotos_do_projeto/Login.png)  |  ![](fotos_do_projeto/Desafio.png) |  ![](fotos_do_projeto/Ranking.png)  |  
-:---------------:|:----------------:|:-----------------:|
 
 
 <h4>
@@ -105,12 +102,6 @@ O sistema de troca de pontos por descontos poderá ser feito por API, dessa form
 </h4>
 Desenho do aplicativo no Figma:
 ![app completo](https://user-images.githubusercontent.com/95141271/143769271-0fb70542-8445-407a-b1c8-d31dcc5f7696.png)
-
-<h4>
-### Fluxo completo de um usuário no app:
-</h4><br/>
-
-![app completo](fotos_do_projeto/fluxo-completo.gif)
 
 
 O aplicativo pode ser baixado através desse link: Em versões Android, somente.
