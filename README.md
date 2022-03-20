@@ -169,7 +169,7 @@ Victor Ferreira:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h4>
 ## O Produto
 </h4>
-![image](https://user-images.githubusercontent.com/95141271/143769310-2e16d33a-d48e-48f2-aac1-aef7846c2a53.png)
+![image](./Fluxo completo de um usuário no app.png)
 
 Após passar por uma longa jornada de desenvolvimento de produto, validações e workshops de entedimento conseguimos chegar ao que está sendo exposto hoje.
 </br>
