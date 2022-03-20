@@ -160,7 +160,7 @@ Victor Ferreira:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h4>
 ## O Produto
 </h4>
-![image](./Fluxo completo de um usuário no app.png)
+![image](Fluxo completo de um usuário no app.png)
 
 Após passar por uma longa jornada de desenvolvimento de produto, validações e workshops de entedimento conseguimos chegar ao que está sendo exposto hoje.
 </br>
